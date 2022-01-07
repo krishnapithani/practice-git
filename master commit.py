@@ -1,3 +1,3 @@
 # This is the branch commit 
-def branch_commit():
+def branch_new():
     pass
