@@ -1,3 +1,3 @@
-# This is the master commit 
-def master_commit():
+# This is the branch commit 
+def branch_commit():
     pass
